@@ -13,7 +13,7 @@ Evidence of academic dishonesty was found in the data file; specifically in math
 **Clean** signifies data after THS ninth grade scores replaced with NaN
 
 - ## District Summary
-  - Replacing the student grades in math and reading from THS had a slight affect in lowering the Overall Passing percentage by only 0.1%; as well as lowering Passing Math (0.2%) and Reading (0.3%) percentages.
+  - Replacing the student grades in math and reading from THS had a small effect in lowering the Overall Passing percentage by only 0.1%; as well as lowering Passing Math (0.2%) and Reading (0.3%) percentages.
 
 #### Original
 ![o-district summary](https://user-images.githubusercontent.com/74840026/126019171-847213be-3303-4979-82c3-f89871670211.PNG)

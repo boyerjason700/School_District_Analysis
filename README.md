@@ -18,7 +18,7 @@ Evidence of academic dishonesty was found in the data file; specifically in math
 #### Original
 ![o-district summary](https://user-images.githubusercontent.com/74840026/126019171-847213be-3303-4979-82c3-f89871670211.PNG)
 #### Clean
-![c-district summary](https://user-images.githubusercontent.com/74840026/126019169-3719721f-45f8-412d-96a8-fa5fb563a4c8.PNG)
+
  
 - ## School Summary
   - Comparing the original and clean DataFrames of the School Summaries, the only school affected was THS.  Once cleaned, Overall Passing percentages went down by 0.31% with Math (0.09%) and Reading (0.29%) percentages being lower as well.  Coincidentally, Average Reading scores for THS increased slightly (0.05) with the replacement of the ninth grade scores.

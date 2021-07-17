@@ -10,7 +10,7 @@ Evidence of academic dishonesty was found in the data file; specifically in math
 - ## District Summary
 Replacing the student grades in math and reading from THS had a slight affect in lowering the Overall Passing percentage by only 0.1%; as well as lowering Passing Math(0.2%) and Reading(0.3%) percentages.
 
-**Original**
+> **Original**
 ![o-district summary](https://user-images.githubusercontent.com/74840026/126019171-847213be-3303-4979-82c3-f89871670211.PNG)
 **Clean**
 ![c-district summary](https://user-images.githubusercontent.com/74840026/126019169-3719721f-45f8-412d-96a8-fa5fb563a4c8.PNG)
@@ -18,21 +18,30 @@ Replacing the student grades in math and reading from THS had a slight affect in
 - ## School Summary
 Comparing the original and clean DataFrames of the School Summaries, the only school affected was THS.  Once cleaned, Overall Passing percentages went down by 0.31% with Math(0.09%) and Reading(0.29%) percentages being lower as well.  Coincidentally, Average Reading scores for THS increased slightly(0.05) with the replacement of the ninth grade scores.
 
-**Original**
+> **Original**
 ![o-school summary](https://user-images.githubusercontent.com/74840026/126019973-8460b31f-1fbc-40d0-88c3-bd9332d44e49.PNG)
 **Clean**
 ![c-school summary](https://user-images.githubusercontent.com/74840026/126019972-8b36d030-d1fe-4df6-a891-9c428caa5d5e.PNG)
 
 - ## Thomas High School
+Replacing the ninth grade scores for THS had little affect in the overall performance of the school when compared to the rest of the schools.  THS remained as the third worst performing school after the data was cleaned.
 
 - ## Ninth Grade
 
     - ### Math and Reading Scores
-
+      - Replacing THS ninth grades scores with NaN showed a significant drop in the total ninth grade math and reading averages for the district.  Math averages were lowered by 5.57 points and Reading averages were lowered by 5.58 points. 
     - ### Scores by School Spending
-
+      - Replacing THS ninth grade scores with NaN showed no significant change in the Scores based by Spending per Student.  Since the student count did not change, only scores, it did not affect this metric.
     - ### Scores by School Size
-
+      - Replacing THS ninth grade scores with NaN showed no significant change in the Scores based by School Size.  Since the student count did not change, only scores, it did not affect this metric.
     - ### Scores by School Type
+      - Replacing THS ninth grade scores with NaN showed a slight lowering of Scores based by School Type.  Overall Passing percentages were lowered by 0.04%, Math Passing percentage was lowered by 0.01% and Reading Passing percentage was lowered by 0.04%.
+      > **Original**
+![o-school type](https://user-images.githubusercontent.com/74840026/126022805-b6b68218-9be1-4267-97db-614f27451bc8.PNG)
+
+      > **Clean**
+![c-school type](https://user-images.githubusercontent.com/74840026/126022814-3ce97b76-b331-4e2e-903a-014a09a323e0.PNG)
+
+
 
 # Summary

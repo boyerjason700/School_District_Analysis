@@ -3,7 +3,7 @@
 # Overview of School District Analysis
 Aggregate data provided to showcase trends in school performance to assist the school board and superintendent in making decisions regarding the school budgets and priorities.  Assisting Maria, we will analyze data on student funding and students' standardized test scores to provide insights about performance trends and patterns which will be used to inform discussions and strategic decisions at the school and district level.
 
-Evidence of academic dishonesty was found in the data file; specifically in math and reading grades for Thomas High School ninth graders.  We have been tasked to replace the scores for THS ninth graders with NaNs while keeping the remaining data intact.  
+Evidence of academic dishonesty was found in the data file; specifically in math and reading grades for Thomas High School ninth graders.  We have been tasked to replace the scores for THS ninth graders with NaNs while keeping the remaining data intact and reperform the analysis.  
 
 # Results
 \* Tables below:

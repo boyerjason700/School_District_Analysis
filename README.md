@@ -29,7 +29,7 @@ Evidence of academic dishonesty was found in the data file; specifically in math
 ![c-school summary](https://user-images.githubusercontent.com/74840026/126019972-8b36d030-d1fe-4df6-a891-9c428caa5d5e.PNG)
 
 - ## Thomas High School
-  - Replacing the ninth-grade scores for THS had little effect in the overall performance of the school when compared to the rest of the schools.  THS remained as the third worst performing school after the data was cleaned.
+  - xxx
 
 - ## Ninth Grade
 
